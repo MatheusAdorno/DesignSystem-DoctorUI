@@ -1,0 +1,2 @@
+import{A as t}from"./index-f87f2eb2.js";import"./index-93d01f8a.js";import"./iframe-dace77dd.js";import"./index-f326ca08.js";import"./jsx-runtime-332fca80.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/matheusadorno.png",alt:"Matheus Adorno"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-f5f3d873.js.map
