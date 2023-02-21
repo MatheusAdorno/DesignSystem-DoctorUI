@@ -15,4 +15,6 @@ export const colors = {
   blue500: '#024E97',
   blue700: '#003B73',
   blue900: '#011A32',
+
+  test: '#FFF',
 }
