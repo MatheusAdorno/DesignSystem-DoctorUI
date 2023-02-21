@@ -1,0 +1,3 @@
+{
+  "extends": "@doctor-ui/eslint-config"
+}

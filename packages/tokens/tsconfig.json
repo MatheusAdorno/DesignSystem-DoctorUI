@@ -1,0 +1,4 @@
+{
+  "extends": "@doctor-ui/ts-config/base.json",
+  "include": ["src"]
+}
